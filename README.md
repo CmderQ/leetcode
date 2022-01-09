@@ -39,7 +39,7 @@
 
 **限时免费下载！后期随时可能收费**
 
-有些动图，在做成电子书（比如 pdf）的时候自然就变没了，如果需要看动图的， 可以去我的公众号《力扣加加》或者我的 leetcode 题解仓库看。
+可以去我的公众号《力扣加加》后台回复电子书获取！
 
 <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg" width="100%">
 
@@ -49,7 +49,7 @@
 
 ## :calendar:《91 天学算法》限时活动
 
-很多教育机构宣传的 7 天，一个月搞定算法面试的，我大概都了解了下，不怎么靠谱。学习算法这东西，还是要考积累，没有量变是不可能有质变的。还有的人选择看书，这是一个不错的选择。但是很多人选了过时的或者质量差的书，又或者不会去写书中给的练习题，导致效果很差。
+很多教育机构宣传的 7 天，一个月搞定算法面试的，我大概都了解了下，不怎么靠谱。学习算法这东西，还是要靠积累，没有量变是不可能有质变的。还有的人选择看书，这是一个不错的选择。但是很多人选了过时的或者质量差的书，又或者不会去写书中给的练习题，导致效果很差。
 
 基于这几个原因，我组织了一个 91 天刷题活动，通过一个相对比较长的时间（91 天）给出最新的学习路径，并强制大家打卡这种高强度练习来让大家**在 91 天后遇见更好的自己**。详细活动介绍可以点下方链接查看。另外往期的讲义也在下面了，大家可以看看合不合你的口味。
 
@@ -57,10 +57,10 @@
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gq0mm4lscqj313h0r0diy.jpg)
 
-- [第六期即将开始报名](https://lucifer.ren/blog/2021/12/03/91algo-6/) 🔥🔥🔥🔥
+- 🔥🔥🔥🔥 [活动首页](https://leetcode-solution.cn/91) 🔥🔥🔥🔥
+- [第六期介绍](https://lucifer.ren/blog/2021/12/03/91algo-6/)
 - [91 第三期讲义 - 二分专题（上）](./thinkings/binary-search-1.md)
 - [91 第三期讲义 - 二分专题（下）](./thinkings/binary-search-2.md)
-- [91 第一期讲义 - 双指针](./91/two-pointers.md)
 
 ## 刷题群
 
@@ -251,6 +251,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [Bus Fare](./problems/Bus-Fare.md) 👍
 - [Minimum Dropping Path Sum](./problems/Minimum-Dropping-Path-Sum.md)
 - [Longest-Matrix-Path-Length](./problems/Longest-Matrix-Path-Length.md)
+- [Every Sublist Min Sum](./problems/Every-Sublist-Min-Sum.md)
+- [Maximize the Number of Equivalent Pairs After Swaps](./problems/Maximize-the-Number-of-Equivalent-Pairs-After-Swaps.md)
 
 - [0002. 两数相加](./problems/2.add-two-numbers.md)
 - [0003. 无重复字符的最长子串](./problems/3.longest-substring-without-repeating-characters.md)
@@ -352,7 +354,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0686. 重复叠加字符串匹配](./problems/686.repeated-string-match.md)
 - [0718. 最长重复子数组](./problems/718.maximum-length-of-repeated-subarray.md)
 - [0714. 买卖股票的最佳时机含手续费](./problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md)
-- [0735. 行星碰撞](./problems/735.asteroid-collision.md)
+- [0735. 行星碰撞](./problems/735.asteroid-collision.md) 👍
 - [0754. 到达终点数字](./problems/754.reach-a-number.md)
 - [0785. 判断二分图](./problems/785.is-graph-bipartite.md)
 - [0790. 多米诺和托米诺平铺](./problems/790.domino-and-tromino-tiling.md)
@@ -411,7 +413,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [1899. 合并若干三元组以形成目标三元组](./problems/1899.merge-triplets-to-form-target-triplet.md) 👍
 - [1904. 你完成的完整对局数](./problems/1904.the-number-of-full-rounds-you-have-played.md)
 - [1906. 查询差绝对值的最小值](./problems/1906.minimum-absolute-difference-queries.md)
+- [2007. 从双倍数组中还原原数组](./problems/2007.find-original-array-from-doubled-array.md)
 - [2008. 出租车的最大盈利](./problems/2008.maximum-earnings-from-taxi.md)
+- [5935. 适合打劫银行的日子](./problems/5935.find-good-days-to-rob-the-bank.md)
+- [5936. 引爆最多的炸弹](./problems/5936.detonate-the-maximum-bombs.md)
+- [5965. 相同元素的间隔之和](./problems/5965.intervals-between-identical-elements.md)
 
 ### 困难难度题目合集
 
@@ -519,6 +525,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [2009. 使数组连续的最少操作数](./problems/2009.minimum-number-of-operations-to-make-array-continuous.md)
 - [2025. 分割数组的最多方案数](./problems/2025.maximum-number-of-ways-to-partition-an-array.md)
 - [2030. 含特定字母的最小子序列](./problems/2030.smallest-k-length-subsequence-with-occurrences-of-a-letter.md)
+- [2102. 序列顺序查询](./problems/2102.sequentially-ordinal-rank-tracker.md)
 
 ## :trident: &nbsp;anki 卡片
 

@@ -87,6 +87,7 @@
   - [0504. 七进制数](./problems/504.base-7.md)
   - [0575. 分糖果](problems/575.distribute-candies.md)
   - [0665. 非递减数列](./problems/665.non-decreasing-array.md)
+  - [0661. 图片平滑器](./problems/661.image-smoother.md)
   - [821. 字符的最短距离](problems/821.shortest-distance-to-a-character.md) 91
   - [0874. 模拟行走机器人](problems/874.walking-robot-simulation.md)
   - [1128. 等价多米诺骨牌对的数量](./problems/1128.number-of-equivalent-domino-pairs.md)
@@ -173,6 +174,7 @@
   - [0279. 完全平方数](./problems/279.perfect-squares.md)
   - [0309. 最佳买卖股票时机含冷冻期](./problems/309.best-time-to-buy-and-sell-stock-with-cooldown.md) 👍
   - [0322. 零钱兑换](./problems/322.coin-change.md)
+  - [0324. 摆动排序 II](./problems/324.wiggle-sort-ii.md)
   - [0328. 奇偶链表](./problems/328.odd-even-linked-list.md)
   - [0331. 验证二叉树的前序序列化](./problems/331.verify-preorder-serialization-of-a-binary-tree.md) 👍
   - [0334. 递增的三元子序列](./problems/334.increasing-triplet-subsequence.md) 👍
@@ -203,6 +205,7 @@
   - [0611. 有效三角形的个数](./problems/611.valid-triangle-number.md) 👍
   - [0673. 最长递增子序列的个数](./problems/673.number-of-longest-increasing-subsequence.md)
   - [0686. 重复叠加字符串匹配](./problems/686.repeated-string-match.md)
+  - [0710. 黑名单中的随机数](./problems/710.random-pick-with-blacklist.md)
   - [0714. 买卖股票的最佳时机含手续费](./problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md) 👍
   - [0718. 最长重复子数组](./problems/718.maximum-length-of-repeated-subarray.md)
   - [0735. 行星碰撞](./problems/735.asteroid-collision.md)
@@ -348,6 +351,11 @@
   - [2009. 使数组连续的最少操作数](./problems/2009.minimum-number-of-operations-to-make-array-continuous.md)
   - [2025. 分割数组的最多方案数](./problems/2025.maximum-number-of-ways-to-partition-an-array.md)
   - [2030. 含特定字母的最小子序列](./problems/2030.smallest-k-length-subsequence-with-occurrences-of-a-letter.md)
+  - [2102. 序列顺序查询](./problems/2102.sequentially-ordinal-rank-tracker.md)
+  - [2209. 用地毯覆盖后的最少白色砖块](./problems/2209.minimum-white-tiles-after-covering-with-carpets.md)
+  - [2281.sum-of-total-strength-of-wizards](./problems/2281.sum-of-total-strength-of-wizards.md)
+  - [2306. 公司命名](./problems/2306.naming-a-company.md) 枚举优化好题
+  - [5254. 卖木头块](./problems/5254.selling-pieces-of-wood.md) 动态规划经典题
   - [5999. 统计数组中好三元组数目](./problems/5999.count-good-triplets-in-an-array.md) 👍
 
 - [后序](epilogue.md)

@@ -44,6 +44,18 @@
 
 <https://github.com/fe-lucifer/fanqiang>
 
+## 九章算法班
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5bw2q7urhj20m803ct8z.jpg)
+
+九章算法，由北大、清华校友于美国硅谷创办，已帮助数十万 IT 程序员找到高薪 offer! 提供 1 对 1 求职指导、算法指导、前后端项目、简历代笔等服务。
+
+- 推荐刷题网站：[www.lintcode.com](https://www.lintcode.com/?utm_source=tf-github-lucifer2022)， 戳此免费领取 7 天[LintCode 超级 Vip](https://www.lintcode.com/vip/activity/zWIMOY)
+
+- 推荐北大 FB 双料大神的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=tf-github-lucifer2022)，有人靠他连拿 3 个大厂 offer
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5bw3rtr9oj20m807sdgp.jpg)
+
 ## :calendar:《91 天学算法》限时活动
 
 很多教育机构宣传的 7 天，一个月搞定算法面试的，我大概都了解了下，不怎么靠谱。学习算法这东西，还是要靠积累，没有量变是不可能有质变的。还有的人选择看书，这是一个不错的选择。但是很多人选了过时的或者质量差的书，又或者不会去写书中给的练习题，导致效果很差。
@@ -412,7 +424,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [1631. 最小体力消耗路径](./problems/1631.path-with-minimum-effort.md)
 - [1658. 将 x 减到 0 的最小操作数](./problems/1658.minimum-operations-to-reduce-x-to-zero.md)
 - [1697. 检查边长度限制的路径是否存在](./problems/1697.checking-existence-of-edge-length-limited-paths.md)
-- [1737. 满足三条件之一需改变的最少字符数](./problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.md)
+- [1737. 满足三条件之一需改变的最少字符数](./problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.md) 👍
+- [1770. 执行乘法运算的最大分数](./problems/1770.maximum-score-from-performing-multiplication-operations.md) 👍 91
 - [1834. 单线程 CPU](./problems/1834.single-threaded-cpu.md)
 - [1899. 合并若干三元组以形成目标三元组](./problems/1899.merge-triplets-to-form-target-triplet.md) 👍
 - [1904. 你完成的完整对局数](./problems/1904.the-number-of-full-rounds-you-have-played.md)
